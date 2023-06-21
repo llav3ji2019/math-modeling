@@ -1,0 +1,9 @@
+/cmake-build-debug/
+/CMakeLists.txt
+/x1_table.txt
+/x2_table.txt
+/x3_table.txt
+/x4_table.txt
+/common_table.txt
+
+/.idea/
